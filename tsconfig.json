@@ -23,22 +23,14 @@
         "removeComments": true,
         "noUnusedLocals": false,
         "noUnusedParameters": true,
-        "verbatimModuleSyntax": true,
-        "paths": {
-            "@/*": [
-                "src/*"
-            ]
-        }
-    },
-    "tsc-alias": {
-        "resolveFullPaths": true
+        "verbatimModuleSyntax": true
     },
     "include": [
         "src/**/*.ts",
-        "src/**/*.test.ts",
+        "src/**/*.test.ts"
     ],
     "exclude": [
         "node_modules",
-        "build",
-    ],
+        "build"
+    ]
 }

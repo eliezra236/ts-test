@@ -1,0 +1,18 @@
+Info 0    [12:32:01.550] Starting TS Server
+Info 1    [12:32:01.551] Version: 5.9.2
+Info 2    [12:32:01.551] Arguments: /opt/homebrew/Cellar/node/24.5.0/bin/node /Users/eliezra/Projects/test-ts/node_modules/.bin/tsserver --logVerbosity verbose --logFile tsserver.log
+Info 3    [12:32:01.551] Platform: darwin NodeVersion: v24.5.0 CaseSensitive: false
+Info 4    [12:32:01.551] ServerMode: undefined hasUnknownServerMode: undefined
+Info 5    [12:32:01.554] currentDirectory:: /Users/eliezra/Projects/test-ts useCaseSensitiveFileNames:: false
+Info 6    [12:32:01.554] libs Location:: /Users/eliezra/Projects/test-ts/node_modules/typescript/lib
+Info 7    [12:32:01.554] globalTypingsCacheLocation:: /Users/eliezra/Library/Caches/typescript/5.9
+Info 8    [12:32:01.555] Binding...
+Info 9    [12:32:01.556] event:
+    {
+      "seq": 0,
+      "type": "event",
+      "event": "typingsInstallerPid",
+      "body": {
+        "pid": 5731
+      }
+    }
